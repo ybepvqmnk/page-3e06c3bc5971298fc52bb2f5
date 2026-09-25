@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://cn.xn--9kq178crjsqlo.com/sitemap.xml
